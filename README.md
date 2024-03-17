@@ -18,7 +18,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/NguyenPhiLongIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhiLongIT&layout=compact&theme=codeSTACKr&card_width=400" alt="nickLan" /></a>
+<a href="https://github.com/NguyenPhiLongIT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhiLongIT&hide=less&layout=compact&theme=codeSTACKr&card_width=400" alt="nickLan" /></a>
 
 ## Github Visitors
 
