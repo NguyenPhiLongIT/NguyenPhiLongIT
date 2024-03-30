@@ -14,7 +14,7 @@
 
   <br/>
     <a href="https://github.com/NguyenPhiLongIT"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=NguyenPhiLongIT&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-	<a href="https://github.com/NguyenPhiLongIT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhiLongIT&hide=less&layout=compact&theme=codeSTACKr&card_width=450&card_height=600" alt="nickLan" /></a>
+	<a href="https://github.com/NguyenPhiLongIT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenPhiLongIT&hide=Less&layout=compact&theme=codeSTACKr&card_width=420" height="195" alt="nickLan" /></a>
 
   <br/>
 
